@@ -1,144 +1,217 @@
-# 👋 Bonjour, je suis Hamza KEBIR
+# Hi there, I'm Hamza KEBIR 👋
 
 <div align="center">
+  
+### Software Quality Engineer | Full Stack Developer | QA Specialist
 
-**Ingénieur Qualité Logiciel | Développeur Full Stack**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kebir.netlify.app-blue?style=for-the-badge&logo=netlify)](https://kebir.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hamza--kebir-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hamza-kebir)
-[![GitHub](https://img.shields.io/badge/GitHub-KEBIRHAMZA-181717?style=for-the-badge&logo=github)](https://github.com/KEBIRHAMZA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hamza--kebir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-kebir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kebir.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://kebir.netlify.app)
 [![Email](https://img.shields.io/badge/Email-hamzakebir03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzakebir03@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KEBIRHAMZA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KEBIRHAMZA)
 
 </div>
 
 ---
 
-## 🎯 À Propos
+## 🎯 About Me
 
-Ingénieur polyvalent spécialisé en **développement Full Stack** et **assurance qualité logicielle**, actuellement en Master Qualité du Logiciel (MQL). Passionné par les architectures modernes, le clean code et l'automatisation des tests, j'interviens sur l'ensemble du cycle de vie logiciel : de la conception au déploiement.
+I'm a **Software Engineer** specializing in **Software Quality Assurance** and **Full Stack Development**. Currently pursuing a Master's in Software Quality (MQL) at Faculté des Sciences Djerba Mahrez, I combine technical excellence with rigorous quality practices to deliver robust, scalable software solutions.
 
-🎓 **Formation actuelle** : Master Qualité du Logiciel - Faculté des Sciences Dhar El Mahraz, Fès  
-🎓 **Diplômes** : Licence Pro Big Data | DTS Développement Web Full Stack  
-📍 **Localisation** : Meknès, Maroc
+```typescript
+const hamza = {
+    location: "Meknès, Morocco 🇲🇦",
+    education: "Master in Software Quality Engineering",
+    specializations: ["Software Quality Assurance", "Full Stack Development", "Test Automation"],
+    currentFocus: ["Clean Architecture", "TDD/BDD", "Microservices", "DevOps"],
+    lifePhilosophy: "Quality is not an act, it is a habit - Aristotle"
+};
+```
 
----
+## 💼 Core Expertise
 
-## 🛠️ Stack Technique
+### Software Quality & Testing
+- **Test-Driven Development (TDD)** & **Behavior-Driven Development (BDD)**
+- Automated Testing: Unit, Integration & E2E Testing
+- Quality Assurance Processes & Best Practices
+- CI/CD Pipeline Integration & Test Automation
+- Tools: Jest, PHPUnit, JUnit, Selenium, Postman
 
-### 💻 Développement
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### Full Stack Development
+- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend**: Laravel, Node.js, Jakarta EE, RESTful APIs
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Architecture**: MVC, Microservices, Clean Architecture
 
-### 🧪 Qualité & Tests
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Méthodologies** : TDD • BDD • Tests Unitaires/Intégration • CI/CD • Agile/SCRUM
-
-### 📊 Data & IA
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### DevOps & Cloud
+- **Containerization**: Docker, Container Orchestration
+- **CI/CD**: GitHub Actions, Jenkins
+- **Cloud Platforms**: AWS, Azure
+- **Version Control**: Git, GitHub, GitLab
 
 ---
 
-## 🚀 Projets Phares
-
-### 🎯 Application Full Stack de Gestion de Projets
-**Technologies** : Laravel • React.js • MySQL • Docker • CI/CD
-- Architecture MVC avec authentification JWT et gestion de rôles multi-niveaux
-- Dashboard interactif avec suivi temps réel des tâches et statistiques
-- API RESTful complète avec suite de tests (PHPUnit + Jest)
-- Pipeline CI/CD automatisé avec déploiement containerisé
-
-### 🏥 Système de Détection de la Rétinopathie Diabétique
-**Technologies** : Python • TensorFlow • CNN • Deep Learning
-- Modèle CNN pour classification d'images médicales rétiniennes
-- Preprocessing avancé et augmentation de données
-- **Accuracy de 89%** avec validation croisée rigoureuse
-- Interface utilisateur pour diagnostic automatisé
-
-### 🌐 Landing Page Multilingue - Mathscan
-**Technologies** : React.js • Tailwind CSS • i18next
-- Interface responsive avec animations fluides et design moderne
-- Support multilingue (FR/EN/AR) avec gestion de contexte React
-- **Score Lighthouse 95+** - Optimisation SEO et performances
-- [Voir le projet ➜](https://mathscan.net)
-
----
-
-## 📈 Statistiques GitHub
+## 🛠️ Tech Stack
 
 <div align="center">
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Data & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Full Stack Project Management System
+**Tech Stack**: Laravel | React.js | MySQL | Docker | CI/CD
+
+A comprehensive project management platform with role-based access control and real-time tracking capabilities.
+
+- **Architecture**: MVC pattern with JWT authentication
+- **Features**: Interactive dashboard, task tracking, real-time statistics
+- **Quality**: Unit tests (PHPUnit), Integration tests (Jest)
+- **DevOps**: Docker containerization, automated CI/CD pipeline
+
+**Key Achievement**: Implemented complete test coverage with automated deployment
+
+---
+
+### 🏥 Diabetic Retinopathy Detection System
+**Tech Stack**: Python | TensorFlow | CNN | Deep Learning
+
+AI-powered medical imaging system for automated diabetic retinopathy diagnosis.
+
+- **Model**: Convolutional Neural Network for image classification
+- **Accuracy**: 89% with cross-validation
+- **Features**: Automated image preprocessing, data augmentation
+- **Interface**: User-friendly upload and diagnostic system
+
+**Key Achievement**: Delivered production-ready ML model with robust validation
+
+---
+
+### 🌐 Multilingual Landing Page - Mathscan
+**Tech Stack**: React.js | Tailwind CSS | i18next
+
+Professional landing page with modern design and multilingual support.
+
+- **Live**: [mathscan.net](https://mathscan.net)
+- **Features**: Responsive design, smooth animations, SEO optimized
+- **Languages**: French, English, Arabic
+- **Performance**: Lighthouse score 95+
+
+**Key Achievement**: Delivered pixel-perfect, cross-browser compatible solution
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEBIRHAMZA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KEBIRHAMZA&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 🎓 Certifications
-
-- 🏆 **Frontend Developer (React)** - HackerRank (2024)
-- 📜 **JavaScript Certification** - Sololearn (2023)
-- 🎯 Formations continues : Docker, AWS, Testing (Udemy, Coursera)
-
----
-
-## 💼 Expérience Professionnelle
-
-**Développeur Front-End React.js** @ Mathscan | Mars 2024  
-- Développement d'une landing page multilingue responsive
-- Implémentation de composants réutilisables optimisés
-- Tests fonctionnels et validation cross-browser
-- Collaboration Agile avec l'équipe produit
-
----
-
-## 🌱 Actuellement
-
-- 📚 Master en Qualité du Logiciel avec focus sur DevOps Engineering
-- 🔭 Exploration des architectures microservices et cloud computing
-- 🌐 Contribution à des projets open source
-- 💡 Veille technologique : IA Générative, Jakarta EE, Cloud Native
-
----
-
-## 📫 Me Contacter
-
-<div align="center">
-
-**Ouvert aux opportunités de collaboration et aux projets innovants !**
-
-[![Email](https://img.shields.io/badge/Email-hamzakebir03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzakebir03@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+212_705_21_25_86-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212705212586)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KEBIRHAMZA&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## 🎓 Education & Certifications
+
+🎯 **Master in Software Quality Engineering** (2024-2026)
+- Faculté des Sciences Djerba Mahrez, Fès
+- Focus: TDD, DevOps, Microservices, Cloud Computing, Agile
+
+📊 **Professional License in Big Data** (2024-2025)
+- École Supérieure de Technologie, Fkih Ben Salah
+- Focus: ML, Deep Learning, System Administration
+
+💻 **Full Stack Web Development** (2022-2024)
+- Institut Spécialisé de Technologie Appliquée, Meknès
+
+### 📜 Certifications
+- ✅ Frontend Developer (React) - HackerRank (April 2024)
+- ✅ JavaScript Certification - Sololearn (May 2023)
+- 📚 Continuous Learning: Docker, AWS, Testing Practices (Udemy, Coursera)
+
+---
+
+## 🌟 What I Bring to the Table
+
+```yaml
+Technical Excellence:
+  - Clean, maintainable, well-tested code
+  - Strong understanding of software architecture patterns
+  - Experience with modern development workflows
+  
+Quality Focus:
+  - Test-driven development mindset
+  - Attention to detail and code quality
+  - Continuous integration and delivery practices
+  
+Collaboration:
+  - Agile/SCRUM methodologies
+  - Strong communication skills (Arabic, French, English)
+  - Team player with leadership potential
+```
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in discussing:
+- 🔧 Software Engineering Best Practices
+- ✅ Quality Assurance & Testing Strategies
+- 🏗️ Modern Software Architecture
+- ☁️ Cloud & DevOps Technologies
+- 🤖 AI/ML Applications
+
+**Open to opportunities in**: Software Engineering, Quality Assurance, Full Stack Development, DevOps
+
+---
+
 <div align="center">
 
-*"La qualité n'est jamais un accident ; c'est toujours le résultat d'un effort intelligent."*
+### 💡 "First, solve the problem. Then, write the code." - John Johnson
 
-⭐️ N'hésitez pas à explorer mes repositories et mettre une étoile si un projet vous intéresse !
+![Profile Views](https://komarev.com/ghpvc/?username=KEBIRHAMZA&color=blueviolet&style=for-the-badge)
+
+⭐️ From [KEBIRHAMZA](https://github.com/KEBIRHAMZA)
 
 </div>
