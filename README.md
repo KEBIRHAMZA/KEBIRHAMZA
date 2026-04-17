@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Software Quality Engineer | Full Stack Developer | QA Specialist
+### Software Quality Engineer | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamza--kebir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-kebir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kebir.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://kebir.netlify.app)
@@ -21,20 +21,13 @@ I'm a **Software Engineer** specializing in **Software Quality Assurance** and *
 const hamza = {
     location: "Meknès, Morocco 🇲🇦",
     education: "Master in Software Quality Engineering",
-    specializations: ["Software Quality Assurance", "Full Stack Development", "Test Automation"],
+    specializations: Software Engineering,
     currentFocus: ["Clean Architecture", "TDD/BDD", "Microservices", "DevOps"],
     lifePhilosophy: "Quality is not an act, it is a habit - Aristotle"
 };
 ```
 
 ## 💼 Core Expertise
-
-### Software Quality & Testing
-- **Test-Driven Development (TDD)** & **Behavior-Driven Development (BDD)**
-- Automated Testing: Unit, Integration & E2E Testing
-- Quality Assurance Processes & Best Practices
-- CI/CD Pipeline Integration & Test Automation
-- Tools: Jest, PHPUnit, JUnit, Selenium, Postman
 
 ### Full Stack Development
 - **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
@@ -197,7 +190,6 @@ Collaboration:
 
 I'm always interested in discussing:
 - 🔧 Software Engineering Best Practices
-- ✅ Quality Assurance & Testing Strategies
 - 🏗️ Modern Software Architecture
 - ☁️ Cloud & DevOps Technologies
 - 🤖 AI/ML Applications
