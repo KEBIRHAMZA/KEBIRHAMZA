@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Software Quality Engineer | Full Stack Developer
+### Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamza--kebir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-kebir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kebir.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://kebir.netlify.app)
@@ -15,15 +15,14 @@
 
 ## 🎯 About Me
 
-I'm a **Software Engineer** specializing in **Software Quality Assurance** and **Full Stack Development**. Currently pursuing a Master's in Software Quality (MQL) at Faculté des Sciences Djerba Mahrez, I combine technical excellence with rigorous quality practices to deliver robust, scalable software solutions.
+I'm a **Software Engineer**, currently pursuing a Master's in Software Quality (MQL) at Faculté des Sciences Dher Mahrez, I combine technical excellence with rigorous quality practices to deliver robust, scalable software solutions.
 
 ```typescript
 const hamza = {
     location: "Meknès, Morocco 🇲🇦",
     education: "Master in Software Quality Engineering",
     specializations: Software Engineering,
-    currentFocus: ["Clean Architecture", "TDD/BDD", "Microservices", "DevOps"],
-    lifePhilosophy: "Quality is not an act, it is a habit - Aristotle"
+    currentFocus: ["Clean Architecture", "TDD/BDD", "Microservices", "DevOps"]
 };
 ```
 
